@@ -7,6 +7,16 @@ body
     margin: 0;
     padding: 0;
 }
+#Cabecera
+{
+    background: #33A;
+    box-shadow: 0px 5px 30px rgba(0,0,0,00.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
 #container
 {
     width: 70%;
